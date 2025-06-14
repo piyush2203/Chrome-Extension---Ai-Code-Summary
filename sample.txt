@@ -1,0 +1,4 @@
+manifest.json
+it tells the chrome about what this extension is all about 
+what are all the permision that it needs , what are all files that it needs,
+all scripts that pop up 
