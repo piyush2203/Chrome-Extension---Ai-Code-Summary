@@ -1,4 +1,10 @@
-manifest.json
+#manifest.json
 it tells the chrome about what this extension is all about 
 what are all the permision that it needs , what are all files that it needs,
 all scripts that pop up 
+
+content_script: help us to query the dom of that particular page 
+
+background.js : when i load the extension,it will ask for the ai api key, and for that we have backgorund.js
+
+host_permission : that we are allowed to hit any website
